@@ -116,6 +116,7 @@ notice(){
         chmod 777 * && chmod 777 archlinux
         mv archlinux /data/data/com.termux/files/usr/bin
         cp -a useradd.sh /data/data/com.termux/files/usr/var/lib/proot-distro/installed-rootfs/archlinux/root
+	chmod 777 /data/data/com.termux/files/usr/bin/archlinux
         echo -e "${cyan}>>> start your archlinux by typing ${green}archlinux"
         echo -e "${cyan}>>> after starting archlinux then type ${green}bash useradd.sh${green}"
 }
