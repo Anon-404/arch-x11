@@ -108,7 +108,7 @@ pkgInstaller(){
     fi
     echo ""
     echo -e "${yellow}[+] ${green}Updating system & installing sudo ${white}"
-    pacman -Syu sudo --noconfrim
+    pacman -Syu sudo --noconfirm
     for i in wget curl fish neofetch git base-devel
     do
         if [ -f /var/lib/pacman/db.lck ]
