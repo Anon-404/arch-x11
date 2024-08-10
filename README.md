@@ -43,17 +43,30 @@ archlinux
 ```bash
 bash useradd.sh
 ```
-### Note : Now we will install gui on our ubuntu
+
+- Step 4 : exit termux
+
+### Note : To get awesome terminal just execute 👇👇
 
 ```bash
 archlinux 
 ```
 ```bash
-sudo bash desktop.sh
+bash config-terminal.sh
 ```
-- Step 4 : Install termux-x11 app from [Here](https://github.com/termux/termux-x11/releases/download/nightly/app-universal-debug.apk)
+- Step 5 : exit termux 
 
-- Step 5 : exit termux then open again and run following commands
+### Note : Now we will install gui on our archlinux
+
+```bash
+archlinux 
+```
+```bash
+bash desktop.sh
+```
+- Step 6 : Install termux-x11 app from [Here](https://github.com/termux/termux-x11/releases/download/nightly/app-universal-debug.apk)
+
+- Step 7 : exit termux then open again and run following commands
 
 ```bash
 archlinux 
@@ -61,13 +74,13 @@ archlinux
 ```bash
 x11-start
 ```
-- Step 6 : open termux-x11 app to access desktop environment
+- Step 8 : open termux-x11 app to access desktop environment
 
 #### Note
 
-- To stop x11 just run
+- To stop x11
 ```bash
-x11-stop
+CTRL + C
 ```
 
 ## provided by team Anon404
