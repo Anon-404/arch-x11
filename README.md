@@ -14,7 +14,7 @@ Stop playing with kali nethunter like a noob
 [+] Lite weight (3GB - 4GB)<br>
 [+] Beautiful customised and featured terminal (garuda konsole) <br>
 [+] Fixed sound issue<br>
-[+] Visual Studio Code<br>
+[+] Visual Studio Code (issued)<br>
 [+] According to your choise it's auto install penetration testing tools(Hacking tools)<br>
 [+] According to your choise it's auto install some highly recommended programming languages<br>
 [+] VLC Media Player<br>
