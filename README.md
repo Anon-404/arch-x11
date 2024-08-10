@@ -7,6 +7,8 @@ Stop playing with kali nethunter like a noob
 
 ![App Screenshot](https://i.imgur.com/hK1F7iB.jpg)
 
+![App Screenshot](https://i.imgur.com/vTgM5WR.jpeg)
+
 ![App Screenshot](https://i.imgur.com/3ollDJV.jpeg)
 
 ## Features
